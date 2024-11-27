@@ -15,6 +15,7 @@ To run the analysis, you will need Python and several libraries. You can install
 
 ```bash
 pip install pandas matplotlib
+pip install tensorflow
 ```
 
 ## Usage
